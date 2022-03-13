@@ -18,3 +18,4 @@ $ yarn start
 
 - Autor - Nilton Júnior
 - Framework - [Nest](https://nestjs.com)
+- Banco de Dados - [SQLite3](https://www.sqlite.org/)
